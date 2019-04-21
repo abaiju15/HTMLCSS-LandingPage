@@ -170,8 +170,8 @@ section {
 .hero h2 {
   color: #faa541;
 }
-.hero h1,
-.hero h2 {
+/* prettier-ignore */
+.hero h1, .hero h2 {
   font-size: 63px;
   font-weight: 700;
   line-height: 0.9;
